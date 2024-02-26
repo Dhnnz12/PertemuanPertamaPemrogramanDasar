@@ -17,4 +17,9 @@ int main()
 	nLuas = nPanjang * nLebar;
 	// display 'Luasnya adalah = ' + nLuas
 	cout << "Luasnya adalah " << nLuas << endl;
+
+
+
+	cout << "Luasnya adalah " << nLuas << endl;
+	cout << "Luasnya adalah " << nLuas << endl;
 }//end
